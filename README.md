@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Taufik Nur Ramadhan</h1>
-<h3 align="center">Research And Development</h3>
+<h3 align="center">Research And Development at 🏢<a href="https://github.com/295-Solution">295 Technology Solution<a></h3>
 
 
 
