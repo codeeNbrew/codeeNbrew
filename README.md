@@ -15,8 +15,8 @@
 ## 📌 About Me
 - I'm codeeNbrew from Yogyakarta, Indonesia
 - Embedded & Network Enthusiast who loves tinkering with hardware and networks
-- Working with C++, Go, PHP, Arduino, and ESP
-- Mikrotik lover & MySQL enjoyer
+- Working with C++, PHP, Arduino, and ESP
+- Linux user
 
 
 ## 🧠 My Focus Areas
