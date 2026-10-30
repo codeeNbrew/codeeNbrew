@@ -23,7 +23,7 @@ Linux user. Always learning.
 embedded-systems/  networking/  backend/  iot/
 
 ~> echo $TOOLBOX
-C++  C#  PHP  Go  Arduino  ESP32  MySQL  PostgreSQL  MongoDB
+C++  C#  PHP  Arduino  ESP32  MySQL
 ```
 
 ### Currently exploring
